@@ -1,7 +1,3 @@
-Peço desculpas pela falta de clareza. Aqui está o README completo com os trechos de código incorporados:
-
----
-
 # Sistema de Registro de Ponto 🕒
 
 Este é um sistema de registro de ponto desenvolvido em Node.js utilizando o framework Express e o banco de dados MongoDB com o auxílio da biblioteca mongoose. 💻📝
